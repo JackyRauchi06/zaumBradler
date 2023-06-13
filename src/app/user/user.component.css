@@ -1,0 +1,8 @@
+.ueberschrift{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  color: red;
+  text-align: center;
+  padding: 5vh;
+  font-size: 3vh;
+}
